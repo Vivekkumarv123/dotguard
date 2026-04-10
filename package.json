@@ -23,5 +23,18 @@
     "@types/node": "^25.6.0",
     "tsup": "^8.5.1",
     "typescript": "^6.0.2"
-  }
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    "validation",
+    "security",
+    "gitignore",
+    "shield",
+    "guard",
+    "config",
+    "zero-dependency",
+    "typescript"
+  ],
+  "author": "Vivek Kumar Verma"
 }
